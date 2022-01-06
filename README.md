@@ -1,5 +1,5 @@
 # 3F_Kelompok-4_UAS-AI
-Tugas ini dibuat sebagai Ujian Akhir Semester mata kuliah Atrificial Intellegent dengan memilih Mall Customer Segmentation. Kelompok kami beranggotakan :
+Tugas ini dibuat sebagai Ujian Akhir Semester mata kuliah Artificial Intellegent dengan memilih Mall Customer Segmentation. Kelompok kami beranggotakan :
 
 1. Anisya Mega Rifdiana   (361955401170)
 2. Via Antika             (361955401161)
